@@ -34,3 +34,4 @@ C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Infrastruct
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Infrastructure\obj\Debug\net9.0\VisitorManagement.Infrastructure.pdb
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Infrastructure\obj\Debug\net9.0\VisitorManagement.Infrastructure.genruntimeconfig.cache
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Infrastructure\obj\Debug\net9.0\ref\VisitorManagement.Infrastructure.dll
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Infrastructure\obj\Debug\net9.0\VisitorManagement.Infrastructure.sourcelink.json

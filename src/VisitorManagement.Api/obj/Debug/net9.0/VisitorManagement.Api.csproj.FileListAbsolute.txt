@@ -300,3 +300,4 @@ C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Api\obj\Deb
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Api\obj\Debug\net9.0\VisitorManagement.Api.pdb
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Api\obj\Debug\net9.0\VisitorManagement.Api.genruntimeconfig.cache
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Api\obj\Debug\net9.0\ref\VisitorManagement.Api.dll
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Api\obj\Debug\net9.0\VisitorManagement.Api.sourcelink.json

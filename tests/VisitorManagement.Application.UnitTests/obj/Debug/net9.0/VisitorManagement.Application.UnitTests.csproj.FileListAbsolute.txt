@@ -169,3 +169,4 @@ C:\Users\unluy\source\repos\MultiTenantExample\tests\VisitorManagement.Applicati
 C:\Users\unluy\source\repos\MultiTenantExample\tests\VisitorManagement.Application.UnitTests\obj\Debug\net9.0\VisitorManagement.Application.UnitTests.pdb
 C:\Users\unluy\source\repos\MultiTenantExample\tests\VisitorManagement.Application.UnitTests\obj\Debug\net9.0\VisitorManagement.Application.UnitTests.genruntimeconfig.cache
 C:\Users\unluy\source\repos\MultiTenantExample\tests\VisitorManagement.Application.UnitTests\obj\Debug\net9.0\ref\VisitorManagement.Application.UnitTests.dll
+C:\Users\unluy\source\repos\MultiTenantExample\tests\VisitorManagement.Application.UnitTests\obj\Debug\net9.0\VisitorManagement.Application.UnitTests.sourcelink.json

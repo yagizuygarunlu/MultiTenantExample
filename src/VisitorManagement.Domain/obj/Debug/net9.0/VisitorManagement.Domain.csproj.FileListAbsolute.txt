@@ -20,3 +20,4 @@ C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Domain\obj\
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Domain\obj\Debug\net9.0\refint\VisitorManagement.Domain.dll
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Domain\obj\Debug\net9.0\VisitorManagement.Domain.pdb
 C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Domain\obj\Debug\net9.0\ref\VisitorManagement.Domain.dll
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Domain\obj\Debug\net9.0\VisitorManagement.Domain.sourcelink.json
