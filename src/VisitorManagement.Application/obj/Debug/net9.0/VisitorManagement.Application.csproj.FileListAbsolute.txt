@@ -1,0 +1,15 @@
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\bin\Debug\net9.0\VisitorManagement.Application.deps.json
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\bin\Debug\net9.0\VisitorManagement.Application.dll
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\bin\Debug\net9.0\VisitorManagement.Application.pdb
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\bin\Debug\net9.0\VisitorManagement.Domain.dll
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\bin\Debug\net9.0\VisitorManagement.Domain.pdb
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\VisitorManagement.Application.csproj.AssemblyReference.cache
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\VisitorManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\VisitorManagement.Application.AssemblyInfoInputs.cache
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\VisitorManagement.Application.AssemblyInfo.cs
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\VisitorManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\VisitorM.1B35BF2A.Up2Date
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\VisitorManagement.Application.dll
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\refint\VisitorManagement.Application.dll
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\VisitorManagement.Application.pdb
+C:\Users\unluy\source\repos\MultiTenantExample\src\VisitorManagement.Application\obj\Debug\net9.0\ref\VisitorManagement.Application.dll
